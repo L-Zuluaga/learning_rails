@@ -21,6 +21,7 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'simple_form', '~> 3.0.2'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'paperclip', '~> 6.1'
+gem 'masonry-rails', '~> 0.2.4'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
